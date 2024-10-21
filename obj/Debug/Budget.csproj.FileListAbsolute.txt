@@ -1,0 +1,13 @@
+C:\Users\WINDOWS 10\source\repos\Budget\bin\Debug\Budget.exe.config
+C:\Users\WINDOWS 10\source\repos\Budget\bin\Debug\Budget.exe
+C:\Users\WINDOWS 10\source\repos\Budget\bin\Debug\Budget.pdb
+C:\Users\WINDOWS 10\source\repos\Budget\obj\Debug\Budget.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 10\source\repos\Budget\obj\Debug\Budget.Form1.resources
+C:\Users\WINDOWS 10\source\repos\Budget\obj\Debug\Budget.Form2.resources
+C:\Users\WINDOWS 10\source\repos\Budget\obj\Debug\Budget.Form3.resources
+C:\Users\WINDOWS 10\source\repos\Budget\obj\Debug\Budget.Properties.Resources.resources
+C:\Users\WINDOWS 10\source\repos\Budget\obj\Debug\Budget.csproj.GenerateResource.cache
+C:\Users\WINDOWS 10\source\repos\Budget\obj\Debug\Budget.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\source\repos\Budget\obj\Debug\Budget.exe
+C:\Users\WINDOWS 10\source\repos\Budget\obj\Debug\Budget.pdb
+C:\Users\WINDOWS 10\source\repos\Budget\obj\Debug\Budget.Form4.resources
